@@ -532,7 +532,7 @@ def main():
     app.run_polling()
 
 if __name__ == "__main__":
-    main() os
+    main()
 import logging
 from collections import defaultdict
 
